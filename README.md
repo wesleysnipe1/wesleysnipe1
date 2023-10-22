@@ -14,7 +14,7 @@
  
 <br>
  
-### Para mais informação sobre mim, só seguir nas redes abaixo!
+### Mais informações sobre mim, só seguir nas redes abaixo!
  
 <div> 
   <a href="https://www.youtube.com/channel/UCoKW1uzHb3zPR_5una_DRJg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
